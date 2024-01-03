@@ -1,7 +1,6 @@
 <?php
 /*
- GitHub: https://github.com/Elyasuuuuu
- Last update : 29/03/2020
+
 */
 ini_set('display_errors','off');
 /*<------------- Placer le lien webhook ici ------------------>*/ $webhook = "INSERT WEBHOOK HERE";
